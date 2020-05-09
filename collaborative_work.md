@@ -1,7 +1,7 @@
 ﻿# Summary of Activity 1
 
 
-## Web Neutrality by Participant 1
+## Web Neutrality by Lucy Caregua
 
 ### What is it?
 
