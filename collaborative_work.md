@@ -1,4 +1,4 @@
-# Summary of Activity 1
+﻿# Summary of Activity 1
 
 
 ## Web Neutrality by Participant 1
@@ -45,7 +45,7 @@ De todos modos, hoy podemos ver un resurgir de estas políticas de empresas punt
 ### Example of opportunities
 
 
-## Web 2.0 by Participant 5
+## Web 2.0 by Danny Torres
 
 ### Main features
 
