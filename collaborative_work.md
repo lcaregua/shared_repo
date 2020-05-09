@@ -44,7 +44,7 @@
 ### Example of opportunities
 
 
-## Web 1.0 by Participant 6
+## Web 1.0 by Diego Faria D.
 
 ### Main features
 
