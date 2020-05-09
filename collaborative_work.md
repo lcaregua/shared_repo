@@ -45,14 +45,27 @@ cambios adicionales de prueba
 ### Example of opportunities
 
 
-## Web 3.0 by Juan Carlos Sellan 
 
-### Y es que Internet 3.0 apunta a que los usuarios podamos acceder a la información de forma más simple y rápida, eliminando la sobre información.  Es lo que se conoce como web semántica porque agrega significado a las palabras
 
-Test
+
+
+## Web 3.0 by Juan Carlos Sellan. 
+
+Y es que Internet 3.0 apunta a que los usuarios podamos acceder a la información de forma más simple y rápida, eliminando la sobre información.  Es lo que se conoce como web semántica porque agrega significado a las palabras.
+
+La Web 3.0 es una red más transparente y justa donde todos puedan participar sin temer una pérdida de privacidad y seguridad. El cambio de la Web 2.0 a la 3.0 es evidente con la evolución de la tecnología que nos rodea. Tecnologías como la inteligencia artificial, el big data y otros harán que sea más fácil proporcionar una experiencia web más personal que nunca. Además, las aplicaciones web serán más intuitivas y serán más accesibles para que las personas las utilicen en sus vidas diarias. Ahora tenemos muchos ejemplos de la Web 3.0 que analizaremos en este artículo.
+
+La introducción de blockchain también ha cambiado cómo funcionará la Web 3.0. Como ya mencionamos, el enfoque se moverá a los usuarios en lugar de a las empresas.
+
+
 
 ### Example of opportunities
 
+Sapien: Sapien es uno de los ejemplos únicos de Web 3.0. Es una plataforma de noticias sociales democratizadas que aprovecha la cadena de bloques Ethereum. También es altamente personalizable. Es una excelente alternativa a Google o Facebook cuando se ve desde la perspectiva de las noticias sociales.
+
+Steemit: Steemit es otro gran ejemplo de sitios web de la Web 3.0. Se ejecuta completamente en la blockchain Steem. Se describe mejor como una plataforma de recompensa descentralizada que ayuda a los contribuyentes a monetizar su contenido. Es una alternativa a Reddit.
+
+Sola: Sola no usa blockchain nada mas, sino que también utiliza tecnología avanzada como AI para crear un híbrido de redes sociales y medios. Difunde información útil a los lectores de acuerdo con sus preferencias, todo con la ayuda de algoritmos AI. De esta manera, los usuarios obtienen lo que quieren y un contenido de alta calidad.
 
 ## Web 2.0 by Danny Torres M
 
