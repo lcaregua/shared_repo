@@ -13,7 +13,7 @@
 ### Disadvantages
 
 
-## Dot-com bubble by Jesus Jacome Reyes
+## Dot-com bubble by Jesus Jacome R.
 
 ### Causes
 1.- Un cambio de expectativas sobre las empresas puntocoms y tecnológicas en general debido a que los inversionistas 
