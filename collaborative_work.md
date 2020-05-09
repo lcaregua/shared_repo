@@ -66,7 +66,9 @@ Test
 La Web 1.0 empezó en los años 60, de la forma más básica que existe, con navegadores de sólo texto, como ELISA, después surgió el HTML que hizo las páginas más agradables a la vista y a los primeros navegadores visuales como Netscape e Internet Explorer.
 Esta Web es de sólo lectura, el usuario no puede interactuar con el contenido de la página, se encuentra limitada a lo que el Webmaster sube al sitio Web.
 
+
 Modelos de negocio en la era Web 1.0
+
 Ante la explosión y proliferación de páginas y sitios web con información de todo tipo, surgieron los motores de búsqueda para tratar de organizar la información existente en la Web. Los motores de búsqueda (o comunmente llamados buscadores), eran sitios web que presentaban una interfaz de usuario para la búsqueda de términos o palabras, y devolvían como resultado (mediante un software de exploración automática conocido como araña web o "web crawler") las páginas y sitios web que contenían dichos téminos relacionados, por lo que rápidamente se convirtieron en sitios de referencia y punto de partida en la navegación Web, con el fin de filtrar la información de interés entre el cada vez más creciente volúmen de páginas web existente.
 
 Las empresas más importantes pronto vieron el potencial comercial de Internet, y empezaron a crear sus propios sitios web. Los buscadores comenzaron a ofrecer la posibilidad de pagar por posicionar determinados sitios web, con el fin de que los resultados proporcionados para determinadas búsquedas con terminología relacionada, incluyesen sus sitios web en los primeros lugares.
