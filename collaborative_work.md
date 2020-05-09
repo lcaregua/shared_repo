@@ -54,6 +54,7 @@ De todos modos, hoy podemos ver un resurgir de estas políticas de empresas punt
 
 ## Web 1.0 by Diego Faria D.
 
-### Main features
+La Web 1.0 empezó en los años 60, de la forma más básica que existe, con navegadores de sólo texto, como ELISA, después surgió el HTML que hizo las páginas más agradables a la vista y a los primeros navegadores visuales como Netscape e Internet Explorer.
+Esta Web es de sólo lectura, el usuario no puede interactuar con el contenido de la página, se encuentra limitada a lo que el Webmaster sube al sitio Web.
 
 ### Example of opportunities
