@@ -13,7 +13,7 @@
 ### Disadvantages
 
 
-## Dot-com bubble by Participant 2
+## Dot-com bubble by Jesus Jacome
 
 ### Causes
 
