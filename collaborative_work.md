@@ -20,7 +20,7 @@
 ### Recomendations
 
 
-## Web 4.0 by Vanessa Pita
+## Web 4.0 by Vanessa Pita T
 
 ### Main features
  - Feature 1 ...
