@@ -45,7 +45,7 @@ De todos modos, hoy podemos ver un resurgir de estas políticas de empresas punt
 ### Example of opportunities
 
 
-## Web 2.0 by Danny Torres
+## Web 2.0 by Danny Torres M
 
 ### Main features
 
