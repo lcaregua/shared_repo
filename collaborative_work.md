@@ -91,7 +91,7 @@ Sola: Sola no usa blockchain nada mas, sino que también utiliza tecnología ava
 
 ## Web 2.0 by Danny Torres M
 
-### Main features
+### Principales caracteristicas
 
 Web 2.0 es una de las series de tecnología mejorada en lugar de una versión específica de la web. 
 Se caracteriza específicamente como una transición de páginas web estáticas a páginas web altamente dinámicas o 
@@ -105,27 +105,22 @@ Las características clave de la Web 2.0 incluyen:
 * Software como servicio (SaaS): los sitios web 2.0 desarrollaron API para permitir el uso automatizado, como una "aplicación" web (aplicación de software) o un mashup
 * Participación masiva: el acceso web casi universal conduce a la diferenciación de preocupaciones, desde la base tradicional de usuarios de Internet (que solían ser piratas informáticos y aficionados a la informática) a una variedad más amplia de usuarios
 
-### Example of opportunities
+### Ejemplos de oportunidad
 
-Blogs:
+* Blogs:
 Los blogs permiten publicar pensamientos y difundirlos por todo el mundo. 
 Hoy en día, no hay blogs disponibles en Internet para blogs gratuitos. Los blogs son un medio perfecto de comunicación interactiva, en lugar de una biblioteca, como solía ser la web anterior. 
 Se dice que los blogs son "acumulativos" donde el usuario puede publicar y comentar.
 
-Redes sociales:
+* Redes sociales:
 Otra herramienta poderosa son los sitios web de redes sociales, permite que la red deseada crezca exponencialmente, comunicándose a través de mensajes de texto,
 voz, chat, mensajes instantáneos, videoconferencias, etc.
-Algunas de las redes sociales comunes son:
-	*Facebook
-	*Linkedin
-	*MySpace
-	*Gorjeo
-	*Google+ 
+Algunas de las redes sociales comunes son:Facebook, Linkedin, MySpace, Gorjeo, Google+, entre otros.
 
-Wikis:
+* Wikis:
 Existen numerosas páginas de Wikipedia que permiten a todos los que acceden a él, contribuir y modificar contenido fácilmente. Podemos llamarlo de naturaleza "iterativa", ya que uno podría deshacer o rehacer el trabajo del otro.
 
-Social Book Marking:
+* Social Book Marking:
 Es una forma avanzada de almacenar, organizar y compartir la colección de sitios web en Internet. Se utiliza para guardar los enlaces al sitio web que el usuario desea retener o compartir.
 
 
