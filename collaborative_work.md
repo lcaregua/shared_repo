@@ -67,11 +67,48 @@ Steemit: Steemit es otro gran ejemplo de sitios web de la Web 3.0. Se ejecuta co
 
 Sola: Sola no usa blockchain nada mas, sino que también utiliza tecnología avanzada como AI para crear un híbrido de redes sociales y medios. Difunde información útil a los lectores de acuerdo con sus preferencias, todo con la ayuda de algoritmos AI. De esta manera, los usuarios obtienen lo que quieren y un contenido de alta calidad.
 
+
+
 ## Web 2.0 by Danny Torres M
 
 ### Main features
 
+Web 2.0 es una de las series de tecnología mejorada en lugar de una versión específica de la web. 
+Se caracteriza específicamente como una transición de páginas web estáticas a páginas web altamente dinámicas o 
+contenido generado por el usuario.
+
+Las características clave de la Web 2.0 incluyen: 
+
+* Folksonomía: clasificación gratuita de la información; permite a los usuarios clasificar y encontrar información de manera colectiva (por ejemplo, "etiquetado" de sitios web, imágenes, videos o enlaces)
+* Experiencia de usuario enriquecida: contenido dinámico que responde a la entrada del usuario (por ejemplo, un usuario puede "hacer clic" en una imagen para ampliarla o obtener más información)
+* Participación del usuario: la información fluye de dos maneras entre el propietario del sitio y los usuarios del sitio mediante evaluación, revisión y comentarios en línea. Los usuarios del sitio también suelen crear contenido generado por el usuario para que otros lo vean (por ejemplo, Wikipedia, una enciclopedia en línea en la que cualquiera puede escribir o editar artículos)
+* Software como servicio (SaaS): los sitios web 2.0 desarrollaron API para permitir el uso automatizado, como una "aplicación" web (aplicación de software) o un mashup
+* Participación masiva: el acceso web casi universal conduce a la diferenciación de preocupaciones, desde la base tradicional de usuarios de Internet (que solían ser piratas informáticos y aficionados a la informática) a una variedad más amplia de usuarios
+
 ### Example of opportunities
+
+Blogs:
+Los blogs permiten publicar pensamientos y difundirlos por todo el mundo. 
+Hoy en día, no hay blogs disponibles en Internet para blogs gratuitos. Los blogs son un medio perfecto de comunicación interactiva, en lugar de una biblioteca, como solía ser la web anterior. 
+Se dice que los blogs son "acumulativos" donde el usuario puede publicar y comentar.
+
+Redes sociales:
+Otra herramienta poderosa son los sitios web de redes sociales, permite que la red deseada crezca exponencialmente, comunicándose a través de mensajes de texto,
+voz, chat, mensajes instantáneos, videoconferencias, etc.
+Algunas de las redes sociales comunes son:
+	*Facebook
+	*Linkedin
+	*MySpace
+	*Gorjeo
+	*Google+ 
+
+Wikis:
+Existen numerosas páginas de Wikipedia que permiten a todos los que acceden a él, contribuir y modificar contenido fácilmente. Podemos llamarlo de naturaleza "iterativa", ya que uno podría deshacer o rehacer el trabajo del otro.
+
+Social Book Marking:
+Es una forma avanzada de almacenar, organizar y compartir la colección de sitios web en Internet. Se utiliza para guardar los enlaces al sitio web que el usuario desea retener o compartir.
+
+
 
 
 ## Web 1.0 by Diego Faria D.
