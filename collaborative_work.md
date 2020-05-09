@@ -30,9 +30,9 @@
 ### Example of opportunities
 
 
-## Web 3.0 by Participant 4
+## Web 3.0 by Juan Carlos Sellan 
 
-### Main features
+### Y es que Internet 3.0 apunta a que los usuarios podamos acceder a la información de forma más simple y rápida, eliminando la sobre información.  Es lo que se conoce como web semántica porque agrega significado a las palabras
 
 ### Example of opportunities
 
