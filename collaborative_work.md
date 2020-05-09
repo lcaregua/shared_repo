@@ -39,8 +39,7 @@ intensifiquen estas posiciones especulativas", puntualizó Polidura.
 ## Web 4.0 by Vanessa Pita T
 
 ### Main features
- - Feature 1 ...
- - Feature 2 ...
+cambios adicionales de prueba
  - ...
 
 ### Example of opportunities
