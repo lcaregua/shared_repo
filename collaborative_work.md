@@ -43,7 +43,7 @@ La web 4.0 propone un nuevo modelo de interacción entre usuario y web, está in
 sino comportándose como una ayuda que de soluciones concretas a las necesidades del usuario.
 Web 4.0 es una capa de integración necesaria para la explotación de la Web semántica y sus enormes posibilidades.
 
-Caracteristicas
+### Caracteristicas
 * Dialogar de forma natural y on-line con una agente virtual inteligente.
 * Ordenadores con gran potencia de proceso 1016 cálculos por segundo. Explotación más eficiente de la web semántica.
 * Accesibilidad. La creación de nuevos modelos de comunicación con la máquina permitirá acercar Internet a las personas a través de la inclusión de agentes personalizados 
@@ -57,7 +57,7 @@ Caracteristicas
 * Nuevo modelo de interacción con el usuario. Para que la Web no se convierta en un mero almacén de información son necesarios nuevos modelos de interacción, o incluso
   ejecutar acciones concretas que den respuesta a las necesidades de los usuarios, haciendo hincapié en su uso sobre dispositivos móviles.
 
-### Example of opportunities
+### Ejemplo de oportunidad
 * El internet de los negocios:  Las etiquetas RFID (identificación por radiofrecuencia) se utilizan, por ejemplo, en sistemas de cadena de suministro, ensamblaje de 
   automóviles y agricultura. Un sector que cambiará completamente gracias a la Web 4.0 es la compra minorista. Al desarrollar navegadores 3D, irá virtualmente a salas
   de exhibición y tiendas para encontrar los productos que le gusten. Si decide comprar, su asistente personal le avisará si el mismo artículo en otro sitio es más barato. 
@@ -67,6 +67,7 @@ Caracteristicas
 
 * Agentes de IA: Mediante el uso del reconocimiento facial, un agente electrónico reconocerá a los usuarios por voz a través de un dispositivo conectado a Internet. El agente electrónico está constantemente disponible. Haga una pregunta al agente y ella responderá. 
 
+* Internet de las cosas: es una web abierta, vinculada e inteligente. Web 4.0 también cargará páginas web más rápido con resultados impecables. Según los ingenieros informáticos Sareh Aghaei, Mohammad Ali Nematbakhsh y Hadi Khosravi Farsani, la Web 4.0 será comparable al cerebro humano
 
 ## Web 3.0 by Juan Carlos Sellan. 
 
