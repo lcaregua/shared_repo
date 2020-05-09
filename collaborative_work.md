@@ -5,13 +5,27 @@
 
 ### What is it?
 
+La neutralidad de la red es un tema complejo y controvertido y es una parte importante de una Internet libre y abierta. 
+Permitir el acceso, la elección y la transparencia de las ofertas de Internet permite a los usuarios beneficiarse del acceso total a los servicios,
+aplicaciones y contenido disponible en Internet.
+
+La neutralidad de la red o "neutralidad de la red" a menudo se usa como una etiqueta amplia en las políticas públicas y 
+las discusiones regulatorias sobre estos temas. Sin embargo, la neutralidad de la red es un término amplio que puede significar cosas diferentes 
+según el punto de vista de cada uno. Las discusiones sobre la red de forma neutral, por ejemplo, a menudo abordan preocupaciones 
+sobre la libertad de expresión, la competencia de servicio y la elección del usuario, el impacto en la innovación, las prácticas no discriminatorias
+ de gestión del tráfico, los precios y los modelos comerciales generales. 
+
 ### Advantages
-  - Advantage 1
-  - Advantage 2
-  - ...
+  -  La primera es que la World Wide Web se mantiene neutral,Los proveedores de servicios de Internet no podrán bloquear 
+     el acceso o modificar el flujo de datos o cómo los recibe para su propio beneficio.
+  - Continua libertad de expresión
+Dado que Internet se considera una utilidad pública y esencial, todos tienen derecho a su uso. La neutralidad de la red asegura 
+que siga siendo una necesidad y no un lujo. Si se convierte en un "lujo", el precio puede aumentar enormemente
 
 ### Disadvantages
-
+ - Falta de pago por el uso de datos
+ - El aspecto no regulado de Internet. Debido a la libertad de expresión y la libertad de expresión de Internet, 
+   se puede publicar casi cualquier cosa en la web.
 
 ## Dot-com bubble by Jesus Jacome R.
 
