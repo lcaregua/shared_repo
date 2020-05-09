@@ -42,6 +42,8 @@ De todos modos, hoy podemos ver un resurgir de estas políticas de empresas punt
 
 ### Y es que Internet 3.0 apunta a que los usuarios podamos acceder a la información de forma más simple y rápida, eliminando la sobre información.  Es lo que se conoce como web semántica porque agrega significado a las palabras
 
+Test
+
 ### Example of opportunities
 
 
