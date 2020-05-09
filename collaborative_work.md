@@ -54,7 +54,7 @@ Test
 ### Example of opportunities
 
 
-## Web 2.0 by Danny Torres
+## Web 2.0 by Danny Torres M
 
 ### Main features
 
