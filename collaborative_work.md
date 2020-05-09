@@ -1,4 +1,4 @@
-# Summary of Activity 1
+﻿# Summary of Activity 1
 
 
 ## Web Neutrality by Participant 1
@@ -26,13 +26,20 @@ De todos modos, hoy podemos ver un resurgir de estas políticas de empresas punt
 
 
 ### Recomendations
+De acuerdo con los analistas consultados, otra de las lecciones que se retoman del boom de las ‘punto com’ es que hay que tomar en cuenta el nerviosismo de los especuladores. Polidura explicó que generalmente, al detectar que un activo tiene un rally alcista, los especuladores empujan la demanda y con ello el precio. 
+Pero se debe de tener en mente que luego, a menudo, vienen las caídas.
+
+El precio de bitcoin subió más de 1,400% en 2017, pero el 20 de diciembre cayó 20% en menos de 12 horas. Lo mismo sucedió décadas atrás con Amazon: al cierre de 1998 logró uno de sus mayores avances, de 1,066%, en la Bolsa tecnológica Nasdaq. Dos años más tarde tuvo un brusco retroceso de 82.59%.
+
+A este sube y baja en las criptomonedas se suma la complejidad de los mercados de futuros que estrenaron en la compra-venta a estas divisas, como la Bolsa de Chicago, lo que también incide en los altibajos en los precios. "Ahora estos derivados permiten las ventas en corto, que probablemente 
+intensifiquen estas posiciones especulativas", puntualizó Polidura.
+
 
 
 ## Web 4.0 by Vanessa Pita T
 
 ### Main features
- - Feature 1 ...
- - Feature 2 ...
+cambios adicionales de prueba
  - ...
 
 ### Example of opportunities
@@ -42,10 +49,12 @@ De todos modos, hoy podemos ver un resurgir de estas políticas de empresas punt
 
 ### Y es que Internet 3.0 apunta a que los usuarios podamos acceder a la información de forma más simple y rápida, eliminando la sobre información.  Es lo que se conoce como web semántica porque agrega significado a las palabras
 
+Test
+
 ### Example of opportunities
 
 
-## Web 2.0 by Participant 5
+## Web 2.0 by Danny Torres M
 
 ### Main features
 
